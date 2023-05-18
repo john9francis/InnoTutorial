@@ -4,7 +4,7 @@ This is the repository for my tutorial on how to use Inno Setup Compiler to crea
 
 I created this tutorial to show how to simply install your programs for easy distribution to users. 
 
-[Tutorial video](https://www.youtube.com/)
+[Tutorial video](https://youtu.be/SC52QeSQu64)
 
 # Development environment
 
