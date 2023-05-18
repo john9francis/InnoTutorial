@@ -2,7 +2,7 @@
 
 This is the repository for my tutorial on how to use Inno Setup Compiler to create an installer for your app. In this example I am publishing a simple game using the MonoGame framework. 
 
-[Tutorial video](google.com)
+[Tutorial video](https://www.youtube.com/)
 
 # Helpful Websites
 
